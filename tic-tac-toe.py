@@ -4,7 +4,7 @@
     A Minimal and Simple Tic-Tac-Toe Program in Python 
         76 lines of code without new lines and comments
         This computer program is designed for computer programming introduction tutorial 
-        oriented towards an advanced (curious, determined, persistent, disciplined) learner.
+        oriented towards an advanced (curious, patient, determined, persistent, disciplined) learner.
 
         - You will learn how to program only by reading and writing lot of programs.
         - You will learn how to design systems only by designing systems.
